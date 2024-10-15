@@ -13,7 +13,8 @@ The process includes:
 1. **Start Process**: Begins when the start button is pressed.
 2. **Mixing and Heating**: Based on sensor feedback and timer-controlled actions.
 3. **Data Acquisition**: Data flows to the AR interface, IoT dashboard, and SCADA system for real-time monitoring.
-![ip&id](https://github.com/user-attachments/assets/6a750fb4-7c40-4fd7-9ed9-e7acfe74a297)
+
+![i2](https://github.com/user-attachments/assets/b892d76a-895b-41af-8ba0-28dd700fe271)
 
 
 ## **Key Features**
