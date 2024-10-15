@@ -69,9 +69,11 @@ The process includes:
 
 
 4. **IoT Dashboard**  
-   ![iot1](https://github.com/user-attachments/assets/fab531d2-edad-4e38-b1e3-78c22325d8ee)
-   ![iot2](https://github.com/user-attachments/assets/5b61c56b-2116-4f12-9f9b-8d16a40f0bd5)
-   ![iot3](https://github.com/user-attachments/assets/cdacdab8-cde1-4598-aa38-3859a9fea2cc)
+ ![image](https://github.com/user-attachments/assets/19fac696-0d1a-42b5-8721-beb6ea9e5b80)
+![image](https://github.com/user-attachments/assets/951e891e-b45a-4d7f-84c9-64adedbc8a40)
+![image](https://github.com/user-attachments/assets/49df3602-39fa-44ab-8a79-061b44d1af8e)
+
+
 
 
    
