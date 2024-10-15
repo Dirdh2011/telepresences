@@ -79,9 +79,11 @@ The process includes:
    
 
 
-6. **SCADA Dashboard**  
-  ![scada1](https://github.com/user-attachments/assets/3b52254a-08f7-411f-92da-79982e7d1f2f)
-![i](https://github.com/user-attachments/assets/54020b57-3ac6-463c-a806-d091b24c5bf1)
+6. **SCADA Dashboard**
+![image](https://github.com/user-attachments/assets/9575e171-99e0-4ab3-aabe-592dfe9367bf)
+
+![image](https://github.com/user-attachments/assets/1186ee15-433a-4fe0-a47b-7ab73af7d6cb)
+![image](https://github.com/user-attachments/assets/6292fffb-d514-4c66-bbc3-2b1eb8321464)
 
 
 
