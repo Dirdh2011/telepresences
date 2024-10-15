@@ -7,12 +7,13 @@ This project integrates **Industry 4.0** principles using **Augmented Reality (A
 The project consists of two tanks:
 - **Mixing Tank**: Operates pumps to combine resin, pigment, and water, stirring based on the tank level.
 - **Heating Tank**: Heats fluid to a set temperature, monitored by sensors.
-![image](https://github.com/user-attachments/assets/a199118a-0119-4158-9adc-2f661464d803)
+![system](https://github.com/user-attachments/assets/46096986-38e8-4174-b84d-ab5dd232f5f3)
+
 The process includes:
 1. **Start Process**: Begins when the start button is pressed.
 2. **Mixing and Heating**: Based on sensor feedback and timer-controlled actions.
 3. **Data Acquisition**: Data flows to the AR interface, IoT dashboard, and SCADA system for real-time monitoring.
-![image](https://github.com/user-attachments/assets/31eb0edc-1eb9-42ea-bc2f-26b0bcecaae1)
+![p&id](https://github.com/user-attachments/assets/31eb0edc-1eb9-42ea-bc2f-26b0bcecaae1)
 
 ## **Key Features**
 - **Real-Time Data Acquisition**: Continuous monitoring of process variables.
@@ -54,25 +55,25 @@ The process includes:
 
 
 2. **Mixing Tank Scan**  
-  ![image](https://github.com/user-attachments/assets/513fd90d-07aa-4757-89c1-11ff8ab7c096)
+  ![mixing tank](https://github.com/user-attachments/assets/513fd90d-07aa-4757-89c1-11ff8ab7c096)
 
 
 3. **Heating Tank Scan**  
    
-![image](https://github.com/user-attachments/assets/420093f6-3a8b-4b61-bb97-8690949248e9)
+![heating](https://github.com/user-attachments/assets/420093f6-3a8b-4b61-bb97-8690949248e9)
 
 4. **IoT Dashboard**  
-   ![image](https://github.com/user-attachments/assets/fab531d2-edad-4e38-b1e3-78c22325d8ee)
-   ![image](https://github.com/user-attachments/assets/5b61c56b-2116-4f12-9f9b-8d16a40f0bd5)
-   ![image](https://github.com/user-attachments/assets/cdacdab8-cde1-4598-aa38-3859a9fea2cc)
+   ![iot1](https://github.com/user-attachments/assets/fab531d2-edad-4e38-b1e3-78c22325d8ee)
+   ![iot2](https://github.com/user-attachments/assets/5b61c56b-2116-4f12-9f9b-8d16a40f0bd5)
+   ![iot3](https://github.com/user-attachments/assets/cdacdab8-cde1-4598-aa38-3859a9fea2cc)
 
 
    
 
 
 6. **SCADA Dashboard**  
-  ![image](https://github.com/user-attachments/assets/3b52254a-08f7-411f-92da-79982e7d1f2f)
-![image](https://github.com/user-attachments/assets/54020b57-3ac6-463c-a806-d091b24c5bf1)
+  ![scada1](https://github.com/user-attachments/assets/3b52254a-08f7-411f-92da-79982e7d1f2f)
+![i](https://github.com/user-attachments/assets/54020b57-3ac6-463c-a806-d091b24c5bf1)
 
 
 
