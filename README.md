@@ -57,13 +57,15 @@ The process includes:
 
 
 2. **Mixing Tank Scan**  
- ![1234](https://github.com/user-attachments/assets/07354129-89bd-4d32-82e5-311768f140f8)
+ ![image](https://github.com/user-attachments/assets/45f221e3-0af6-40c0-8231-3580bb7daadf)
+
 
 
 
 3. **Heating Tank Scan**  
    
-![im6](https://github.com/user-attachments/assets/d769a16e-f57a-4bf1-abf5-6e312c478227)
+![image](https://github.com/user-attachments/assets/4e40dab9-811f-491c-90f5-d989e281c9d3)
+
 
 
 4. **IoT Dashboard**  
