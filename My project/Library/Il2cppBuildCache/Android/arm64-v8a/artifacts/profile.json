@@ -1,0 +1,29 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+"traceEvents":[
+{ "cat":"", "pid":1, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"tundra" } }
+,{ "pid":1, "tid":0, "ts":90130806379, "dur":1002, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":1, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":90130807382, "dur":324, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":90130807786, "dur":0, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"RemoveStaleOutputs" }}
+,{ "pid":1, "tid":0, "ts":90130807807, "dur":1, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"PrepareNodes" }}
+,{ "pid":1, "tid":0, "ts":90130807808, "dur":300, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"BuildQueueInit" }}
+,{ "pid":1, "tid":0, "ts":90164761734, "dur":28190, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":28, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":90164789941, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":90164789970, "dur":18, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":90164790005, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":90164790024, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":0, "ts":90164790029, "dur":2205, "ph":"X", "name": "Tundra",  "args": { "durationMS":2, "detail":"Write AllBuiltNodes" }}
+,{ "pid":1, "tid":1, "ts":90130808535, "dur":9992, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":10, "detail":"Il2Cpp C:/Users/Dell/My project/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so" }}
+,{ "pid":1, "tid":1, "ts":90130821785, "dur":33939899, "ph":"X", "name": "Il2Cpp",  "args": { "durationMS":33940, "detail":"C:/Users/Dell/My project/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so" }}
+,{ "pid":1, "tid":1, "ts":90164761687, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":0, "detail":"all_tundra_nodes" }}
+,{ "pid":1, "tid":1, "ts":90164761710, "dur":25, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":0, "detail":"" }}
+,{ "pid":1, "tid":1, "ts":90164761735, "dur":27927, "ph":"X", "name": "Exiting",  "args": { "durationMS":28, "detail":"BuildLoop" }}
+,{ "pid":1, "tid":2, "ts":90130808530, "dur":33953212, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":33953, "detail":"" }}
+,{ "pid":1, "tid":2, "ts":90164761742, "dur":27876, "ph":"X", "name": "Exiting",  "args": { "durationMS":28, "detail":"BuildLoop" }}
+,{ "pid":1, "tid":3, "ts":90130808592, "dur":33953148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":33953, "detail":"" }}
+,{ "pid":1, "tid":3, "ts":90164761740, "dur":27878, "ph":"X", "name": "Exiting",  "args": { "durationMS":28, "detail":"BuildLoop" }}
+,{ "pid":1, "tid":4, "ts":90130808643, "dur":33953093, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":33953, "detail":"" }}
+,{ "pid":1, "tid":4, "ts":90164761736, "dur":27915, "ph":"X", "name": "Exiting",  "args": { "durationMS":28, "detail":"BuildLoop" }}
+
+]
+}
